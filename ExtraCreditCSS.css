@@ -43,5 +43,18 @@ header {
 .column {
   flex: 1;
   margin: 0 10px;
-  background color: rgb(208,208,208);
+  border: 1px solic black
+}
+
+
+.column-1 {
+  background-color: #ffcccc; /* light pink */
+}
+
+.column-2 {
+  background-color: #ccffcc; /* light green */
+}
+
+.column-3 {
+  background-color: #ccccff; /* light blue */
 }
