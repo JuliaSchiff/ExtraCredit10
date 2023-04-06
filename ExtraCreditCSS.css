@@ -27,3 +27,10 @@ h1, strong {
 em {
   color: black;
 }
+
+header {
+  margin-bottom: 10px;
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%
+  }
