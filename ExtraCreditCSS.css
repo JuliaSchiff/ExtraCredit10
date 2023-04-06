@@ -34,3 +34,10 @@ header {
   flex-flow: row wrap;
   width: 100%
   }
+
+.flex-container {
+  background-color: rgb (208,208,208);
+  padding: 1%;
+  display: flex;
+  flex-wrap: wrap;
+  }
